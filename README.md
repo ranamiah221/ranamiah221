@@ -1,16 +1,15 @@
 ![Web Developer](https://i.ibb.co/RYL15J6/Yellow-Motivational-Web-Developer-Facebook-Cover.png)
 
-### Hi there 👋, I am Md. Rana Miah
+### Hi Everyone 👋, I am Md. Rana Miah
 #####  https://wakatime.com
 #### Web Developer
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+MERN Stack Developer with hands-on experience in building full-stack web applications using Javascript, Typescript, MongoDB, Mongoose, Express.js, React, and Node.js. Skilled in creating responsive UI, RESTful APIs, and scalable backend systems. Committed to writing clean, efficient code and delivering user-focused solutions.
 
-Skills: REACT / JS / HTML / CSS / MONGODB / NODE.JS / EXPRESS.JS / NEXT.JS
+Skills: REACT / JS / TS / HTML / CSS / Tailwind/ ShadCN / MONGODB /Mongoose / NODE.JS / EXPRESS.JS /Postgress
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning javascript 
-- 👯 I’m looking to collaborate on github 
+- 🔭 I’m currently learing Next.js. 
+- 🌱 I’m currently learning Prisma. 
 - 💬 Ask me about Web Developer 
 
 
