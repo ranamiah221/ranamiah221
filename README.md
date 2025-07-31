@@ -9,7 +9,7 @@ MERN Stack Developer with hands-on experience in building full-stack web applica
 Skills: REACT / JS / TS / HTML / CSS / Tailwind/ ShadCN / MONGODB /Mongoose / NODE.JS / EXPRESS.JS /Postgress
 
 - 🔭 I’m currently learing Next.js. 
-- 🌱 I’m currently learning Prisma. 
+- 🌱 I’m currently learning Typescript. 
 - 💬 Ask me about Web Developer 
 
 
