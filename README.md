@@ -26,7 +26,7 @@ MERN Stack Developer with hands-on experience in building full-stack web applica
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/md-rana-miah-b24b972a4//" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/md-rana-miah-b24b972a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="ranarasul21@gmail.com">
