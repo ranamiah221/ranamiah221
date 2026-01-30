@@ -2,9 +2,9 @@
 
 ### Hi Everyone 👋, I am Md. Rana Miah
 #####  https://wakatime.com
-#### Web Developer
+#### Backend Developer
 
-MERN Stack Developer with hands-on experience in building full-stack web applications using Javascript, Typescript, MongoDB, Mongoose, Express.js, React, and Node.js. Skilled in creating responsive UI, RESTful APIs, and scalable backend systems. Committed to writing clean, efficient code and delivering user-focused solutions.
+Backend Developer with hands-on experience in designing and building scalable server-side applications using Node.js, NestJS, and Express.js. Proficient in working with PostgreSQL and modern ORMs such as Prisma, Drizzle ORM, and TypeORM, as well as MongoDB with Mongoose for NoSQL solutions. Skilled in developing secure and efficient RESTful APIs, implementing authentication and authorization, and structuring maintainable backend architectures. Experienced with the MERN stack, enabling effective collaboration between frontend and backend systems. Committed to writing clean, efficient, and well-documented code while delivering reliable, user-focused solutions.
 
 ---
 
